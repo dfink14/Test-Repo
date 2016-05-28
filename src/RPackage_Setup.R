@@ -6,3 +6,5 @@ library(tidyr)
 
 install.packages("acs")
 library(acs)
+
+library(scales)
